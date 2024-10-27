@@ -11,7 +11,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 
 
-TOKEN: Final = '7762828730:AAG8Y-p6htv9Ud1uRXKON-477A1jnYcT5G4'
+TOKEN: Final = ''
 BOT_USERNAME: Final = "@BozoCollBot"
 CHAT_ID: Final = '866672977269489677'
 COLLECTION_SLUG: Final = 'bozo-collective'  # Ensure the slug is correct
