@@ -16,7 +16,7 @@ BOT_USERNAME: Final = "@BozoCollBot"
 CHAT_ID: Final = '866672977269489677'
 COLLECTION_SLUG: Final = 'bozo-collective'  # Ensure the slug is correct
 
-MAGIC_EDEN_URL = f"https://api.magiceden.dev/v2/collections/{COLLECTION_SLUG}/stats"
+MAGIC_EDEN_URL = f"https://api-mainnet.magiceden.dev/v2/collections/Bozo%20Collective/activities"
 
 # Commands
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
